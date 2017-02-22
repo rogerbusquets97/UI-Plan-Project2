@@ -2,7 +2,7 @@
 
 In this page you can dowload the documentation about my research in UI planning in video games. It covers design, art, an code, related with game user interfaces.
 
-[Documentation](https://github.com/rogerbusquets97/UI-Plan-Project2/releases)
+[Website](https://rogerbusquets97.github.io/UI-Plan-Project2/)
 
 ### About me
 
